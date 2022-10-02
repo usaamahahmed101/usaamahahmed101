@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @usaamahahmed101
 - 👀 I’m interested in Python/DevOps/Cloud Engineering
-- 🌱 I’m currently learning Docker/Kubernetes 
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/usaamah-ahmed101) 
 
 <!---
